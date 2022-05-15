@@ -1,4 +1,4 @@
-# Free-Labs-to-Train-your-CTF-Skills
+#  Free Labs to Train ur CTF Skills
 
 
 -> Academy Hackaflag -BR https://academy.hackaflag.com.br
